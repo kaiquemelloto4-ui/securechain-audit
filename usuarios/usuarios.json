@@ -1,0 +1,10 @@
+{
+    "KaiqueMelloto": {
+       "senha": "$2b$12$DcSTZUAI/2khQAfDHkzvhumhD.Wi3XkNVao9jisQJa/iXR8VecQqe",
+        "perfil": "admin"
+    },
+  "teste": {
+        "senha": "$2b$12$xX7FiIXBl5JKErYRhcDhH.yD3GQHnehPoX2WNAZqA9pQhXIHkGvwy",
+        "perfil": "visitante"
+    }
+}
