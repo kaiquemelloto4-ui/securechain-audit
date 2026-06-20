@@ -1,3 +1,6 @@
+## Integrantes
+Kaique Freitas Melloto - 202310216
+
 ## Controle de usuários Linux
 
 Foram criados os usuários administrador, analista e visitante. Também foram criados grupos específicos: secure_admin, secure_analista e secure_visitante.
