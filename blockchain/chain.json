@@ -1,0 +1,114 @@
+[
+    {
+        "id": 0,
+        "timestamp": "2026-06-13T13:12:59.657620",
+        "evento": "Bloco g\u00eanesis criado",
+        "hash_anterior": "0",
+        "hash_atual": "95415e1885006924b55c6507cee9eb00c4f575b57383c15f2845c937b25bb2d5"
+    },
+    {
+        "id": 1,
+        "timestamp": "2026-06-13T13:12:59.661652",
+        "evento": "Teste manual de cria\u00e7\u00e3o de bloco",
+        "hash_anterior": "95415e1885006924b55c6507cee9eb00c4f575b57383c15f2845c937b25bb2d5",
+        "hash_atual": "f89649533c764e08788ae999d4e71f187ba8f9249b340ecc90f2c0b669841651"
+    },
+    {
+        "id": 2,
+        "timestamp": "2026-06-13T13:22:01.341168",
+        "evento": "Usu\u00e1rio criado: GabrielRamire com perfil admin",
+        "hash_anterior": "f89649533c764e08788ae999d4e71f187ba8f9249b340ecc90f2c0b669841651",
+        "hash_atual": "7e155ee5b1126ec5c35ce06ebdc86aaa200fe22450248ddd122e42b264556e45"
+    },
+    {
+        "id": 3,
+        "timestamp": "2026-06-13T13:22:17.659475",
+        "evento": "Login realizado: GabrielRamire perfil admin",
+        "hash_anterior": "7e155ee5b1126ec5c35ce06ebdc86aaa200fe22450248ddd122e42b264556e45",
+        "hash_atual": "497b74cb55f68083d46f036505b4afcebd0cdb3a541a4f70b7905dc124085d5a"
+    },
+    {
+        "id": 4,
+        "timestamp": "2026-06-13T13:29:55.168458",
+        "evento": "Usu\u00e1rio criado: RenanBeinotte com perfil analista",
+        "hash_anterior": "497b74cb55f68083d46f036505b4afcebd0cdb3a541a4f70b7905dc124085d5a",
+        "hash_atual": "9d2b5b4dc408a57d63b65b6110a1b88f02857b28df8df503a5d1c496004bd126"
+    },
+    {
+        "id": 5,
+        "timestamp": "2026-06-13T13:30:13.469475",
+        "evento": "Usu\u00e1rio criado: GuilhermeLeme com perfil visitante",
+        "hash_anterior": "9d2b5b4dc408a57d63b65b6110a1b88f02857b28df8df503a5d1c496004bd126",
+        "hash_atual": "2979eed15f98df93f172cb592f095da055a0b1246f85afb860bfffe58998a46d"
+    },
+    {
+        "id": 6,
+        "timestamp": "2026-06-13T13:30:27.718110",
+        "evento": "Login realizado: RenanBeinotte perfil analista",
+        "hash_anterior": "2979eed15f98df93f172cb592f095da055a0b1246f85afb860bfffe58998a46d",
+        "hash_atual": "cfe5a548c5e69fffef076c6a9dfadbb6dc09de606c4048b4176a672fc28a8557"
+    },
+    {
+        "id": 7,
+        "timestamp": "2026-06-13T13:34:11.109900",
+        "evento": "Tentativa de acesso negada para usu\u00e1rio: RenanBeinotte",
+        "hash_anterior": "cfe5a548c5e69fffef076c6a9dfadbb6dc09de606c4048b4176a672fc28a8557",
+        "hash_atual": "75985b45765008a27154a619a17230cda2cf89e637a618e48bdd70109f2e276d"
+    },
+    {
+        "id": 8,
+        "timestamp": "2026-06-13T13:34:25.634768",
+        "evento": "Tentativa de login negada para usu\u00e1rio inexistente: RenanBeinote",
+        "hash_anterior": "75985b45765008a27154a619a17230cda2cf89e637a618e48bdd70109f2e276d",
+        "hash_atual": "9a21a8ee91ff198429b790722866d2f0f383151ce3d16bb5a02266e51f2e7426"
+    },
+    {
+        "id": 9,
+        "timestamp": "2026-06-13T13:38:15.888650",
+        "evento": "Hashes iniciais dos documentos cadastrados",
+        "hash_anterior": "9a21a8ee91ff198429b790722866d2f0f383151ce3d16bb5a02266e51f2e7426",
+        "hash_atual": "3d49869ab69cd8de9aa8e9a7a56b10cb04b11f4c649a1ea7f63a1a1a652d8360"
+    },
+    {
+        "id": 10,
+        "timestamp": "2026-06-13T13:38:43.674437",
+        "evento": "Arquivo alterado: contrato.txt",
+        "hash_anterior": "3d49869ab69cd8de9aa8e9a7a56b10cb04b11f4c649a1ea7f63a1a1a652d8360",
+        "hash_atual": "9fbf32f6dd4a543b844bbb9b58303de932fc2204d7ef11f5109f92d0a151a39a"
+    },
+    {
+        "id": 11,
+        "timestamp": "2026-06-13T13:45:18.346764",
+        "evento": "Arquivo inclu\u00eddo: novo.txt",
+        "hash_anterior": "9fbf32f6dd4a543b844bbb9b58303de932fc2204d7ef11f5109f92d0a151a39a",
+        "hash_atual": "77b2b80b702d2fa04260a2ce2854656c795910b2b69bac16dd3b18cc698d0944"
+    },
+    {
+        "id": 12,
+        "timestamp": "2026-06-13T13:45:58.299258",
+        "evento": "Arquivo exclu\u00eddo: novo.txt",
+        "hash_anterior": "77b2b80b702d2fa04260a2ce2854656c795910b2b69bac16dd3b18cc698d0944",
+        "hash_atual": "3c1051b6fc7000f754f62c6119b26c817dd329a6db09547dd9c73147b2ed0d8e"
+    },
+    {
+        "id": 13,
+        "timestamp": "2026-06-13T13:49:50.911129",
+        "evento": "Backup seguro executado com AES-256",
+        "hash_anterior": "3c1051b6fc7000f754f62c6119b26c817dd329a6db09547dd9c73147b2ed0d8e",
+        "hash_atual": "3b37b14cfef854fcca17cfdfc5689bfb5ce130da12a106d374b10966124965f9"
+    },
+    {
+        "id": 14,
+        "timestamp": "2026-06-13T14:00:43.976833",
+        "evento": "Relat\u00f3rio de auditoria gerado: /home/gabriel/securechain/auditoria/relatorios/auditoria_2026-06-13_14-00-43.txt",
+        "hash_anterior": "3b37b14cfef854fcca17cfdfc5689bfb5ce130da12a106d374b10966124965f9",
+        "hash_atual": "3b481fcfec8379e71e68aacf174afda9c49cb35352e0212b2fe142420737ba9c"
+    },
+    {
+        "id": 15,
+        "timestamp": "2026-06-13T14:01:02.150016",
+        "evento": "Relat\u00f3rio de auditoria gerado: /home/gabriel/securechain/auditoria/relatorios/auditoria_2026-06-13_14-01-02.txt",
+        "hash_anterior": "3b481fcfec8379e71e68aacf174afda9c49cb35352e0212b2fe142420737ba9c",
+        "hash_atual": "662f5b78267543d163eac20b900118595d1645fa8349e5f7f89edcb030648362"
+    }
+]
